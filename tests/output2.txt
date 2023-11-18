@@ -1,0 +1,17 @@
+finding path between: Ivy Alice
+Ivy Bob Alice 
+
+finding path between: Charlie Frank
+Charlie Eve Frank 
+
+finding path between: Grace Jack
+Grace Frank Dave Bob Ivy Jack 
+
+finding path between: Frank Alice
+Frank Dave Bob Alice 
+
+finding path between: Charlie Grace
+Charlie Eve Frank Grace 
+
+finding path between: Lily Dave
+Lily Ivy Bob Dave 

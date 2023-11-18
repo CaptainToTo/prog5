@@ -1,0 +1,35 @@
+finding path between: Alice Frank
+Alice Bob Dave Frank 
+
+finding path between: Zack Jack
+Zack Victor Steve Peter Lily Jack 
+
+finding path between: Yvonne Helen
+Yvonne Ulysses Rachel Oliver Kate Helen 
+
+finding path between: Frank Ivan
+Frank Ivan 
+
+finding path between: Ulysses Bob
+Ulysses Rachel Oliver Kate Helen Dave Bob 
+
+finding path between: Dave Tom
+Dave Frank Jack Nancy Quinn Tom 
+
+finding path between: Kate Wendy
+Kate Nancy Quinn Tom Wendy 
+
+finding path between: Lily Charlie
+Lily Ivan Eve Charlie 
+
+finding path between: Charlie Lily
+Charlie Eve Ivan Lily 
+
+finding path between: Steve Alice
+Steve Peter Lily Helen Dave Bob Alice 
+
+finding path between: Xavier Oliver
+Xavier Ulysses Rachel Oliver 
+
+finding path between: Helen Nancy
+Helen Jack Nancy 

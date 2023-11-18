@@ -1,0 +1,11 @@
+Alice Bob Charlie
+Bob Alice Dave Ivy
+Charlie Alice Eve
+Dave Bob Eve Frank
+Eve Charlie Dave Frank
+Frank Dave Eve Grace
+Grace Frank
+Ivy Jack Lily Bob
+Jack Ivy
+Kate Lily
+Lily Kate Ivy

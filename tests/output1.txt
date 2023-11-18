@@ -1,0 +1,8 @@
+finding path between: Alice Eve
+Alice Bob Eve 
+
+finding path between: Charlie Dave
+Charlie Alice Bob Dave 
+
+finding path between: Dave Bob
+Dave Bob 

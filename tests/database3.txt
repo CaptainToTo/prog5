@@ -1,0 +1,26 @@
+Alice Bob Charlie
+Bob Alice Dave Eve
+Charlie Alice Eve Frank
+Dave Bob Eve Frank Grace Helen
+Eve Charlie Dave Frank Grace Helen Ivan
+Frank Dave Eve Grace Helen Ivan Jack
+Grace Frank Helen Ivan Jack Kate
+Helen Dave Frank Grace Ivan Jack Kate Lily
+Ivan Eve Frank Grace Helen Jack Kate Lily Mike
+Jack Frank Grace Helen Ivan Kate Lily Mike
+Kate Grace Helen Jack Lily Mike Nancy
+Lily Helen Ivan Jack Kate Mike Nancy Oliver
+Mike Ivan Jack Kate Lily Nancy Oliver Peter
+Nancy Jack Kate Lily Mike Oliver Peter Quinn
+Oliver Kate Lily Mike Nancy Peter Quinn Rachel
+Peter Lily Mike Nancy Oliver Quinn Rachel Steve
+Quinn Nancy Oliver Peter Rachel Steve Tom
+Rachel Oliver Peter Quinn Steve Tom Ulysses
+Steve Peter Quinn Rachel Tom Ulysses Victor
+Tom Quinn Rachel Steve Ulysses Victor Wendy
+Ulysses Rachel Steve Tom Victor Wendy Xavier
+Victor Steve Tom Ulysses Wendy Xavier Yvonne
+Wendy Tom Ulysses Victor Xavier Yvonne Zack
+Xavier Ulysses Victor Wendy Yvonne Zack
+Yvonne Ulysses Victor Wendy Xavier Zack
+Zack Victor Wendy Xavier Yvonne
